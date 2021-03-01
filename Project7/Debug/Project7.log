@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Project7\Project7\Point.h(25,25): error C2535: 'std::string Point::toString(void) const': member function already defined or declared
+C:\Users\User\source\repos\Project7\Project7\Point.h(23): message : see declaration of 'Point::toString'
+C:\Users\User\source\repos\Project7\Project7\Point.h(13,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Project7\Project7\Point.h(14,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  point.cpp
+C:\Users\User\source\repos\Project7\Project7\Point.h(25,25): error C2535: 'std::string Point::toString(void) const': member function already defined or declared
+C:\Users\User\source\repos\Project7\Project7\Point.h(23): message : see declaration of 'Point::toString'
+C:\Users\User\source\repos\Project7\Project7\Point.h(13,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Project7\Project7\Point.h(14,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Project7\Project7\point.cpp(5,7): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Project7\Project7\point.cpp(6,7): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Project7\Project7\point.cpp(64,1): error C2084: function 'std::string Point::toString(void) const' already has a body
+C:\Users\User\source\repos\Project7\Project7\point.cpp(27): message : see previous definition of 'toString'
+  Generating Code...
